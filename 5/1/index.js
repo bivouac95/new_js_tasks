@@ -8,4 +8,4 @@ if (login === existedUserLogin && password === existedUserPassword){
     alert(`Добро пожаловать ${login}!`);
 } else {
     alert('Неправильный логин и (или) пароль');
-}
+};
