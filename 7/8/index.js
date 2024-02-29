@@ -39,3 +39,5 @@ function getMathResult(array){
             return 'Неверный формат передачи данных';
     }
 }
+
+console.log(getMathResult([5, '6', 8]))
